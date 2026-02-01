@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Félicitations !</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #ffe6f2;
+            color: #d63384;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 2em;
+        }
+        img {
+            margin-top: 20px;
+            max-width: 300px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Je suis très content que tu sois ma Valentine !</h1>
+    <img src="https://media.giphy.com/media/3o7TKz9bX9v8Z8Z8Z8/giphy.gif" alt="Cœurs animés mignons">
+</body>
+</html>
